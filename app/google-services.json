@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917430437971",
+    "firebase_url": "https://test-28645-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-28645",
+    "storage_bucket": "test-28645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917430437971:android:c8a361c33a8b8c9882dea6",
+        "android_client_info": {
+          "package_name": "com.stimednp.crudrealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917430437971-enni3tsuq8oroq4e1d2fbcqiklu9qbkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekJyBfmznfJW9J8rK-UuZhMl-1QRTKYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917430437971-enni3tsuq8oroq4e1d2fbcqiklu9qbkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

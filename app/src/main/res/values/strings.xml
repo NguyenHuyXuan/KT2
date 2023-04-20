@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseCRUD</string>
+    <string name="name">Ten San Pham</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="address">Gia</string>
+    <string name="str_umur">LoaiSP</string>
+</resources>
